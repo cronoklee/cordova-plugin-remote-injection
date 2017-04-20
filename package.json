@@ -1,17 +1,17 @@
 {
   "name": "cordova-plugin-remote-injection",
   "version": "0.5.1",
-  "description": "Injects Cordova into a remote site.",
+  "description": "cordova-plugin-remote-injection",
   "cordova": {
     "id": "cordova-plugin-remote-injection",
     "platforms": [
-      "android",
-      "ios"
+      "ios",
+      "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cronoklee/cordova-plugin-remote-injection"
+    "url": "git+https://github.com/cronoklee/cordova-plugin-remote-injection.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -19,5 +19,9 @@
     "cordova-ios"
   ],
   "author": "Brad Reynolds",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cronoklee/cordova-plugin-remote-injection/issues"
+  },
+  "homepage": "https://github.com/cronoklee/cordova-plugin-remote-injection#readme"
 }
